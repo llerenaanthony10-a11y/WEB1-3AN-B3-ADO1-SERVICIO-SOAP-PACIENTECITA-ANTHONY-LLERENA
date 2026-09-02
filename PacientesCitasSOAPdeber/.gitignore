@@ -1,0 +1,12 @@
+## .gitignore para proyecto .NET
+
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
